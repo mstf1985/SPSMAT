@@ -9,9 +9,10 @@ All [Linux](https://wiki.octave.org/Octave_for_GNU/Linux), [Mac](https://wiki.oc
 
 For using the SPSMAT package you need to download and install [git](https://gist.github.com/derhuerst/1b15ff4652a867391f03).
 Then you need to make a copy of SPSMAT on your system by running a command on your terminal or cmd:
->> git clone 
+>> git clone  https://github.com/siaadfilml/SPSMAT.git
 
+After setting paths to familiarlizing your system with SPSMAT, now you have the latest version of SPSMAT. 
 
+In some systems , as the last step, open octave and type >> setenv PYTHON python3
 
-
-it by the 
+Enjoy!
