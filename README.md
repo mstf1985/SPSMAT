@@ -11,8 +11,8 @@ For using the SPSMAT package you need to download and install [git](https://gist
 Then you need to make a copy of SPSMAT on your system by running a command on your terminal or cmd:
 >> git clone  https://github.com/siaadfilml/SPSMAT.git
 
-After setting paths to familiarlizing your system with SPSMAT, now you have the latest version of SPSMAT. 
+Now you have the latest version of SPSMAT. 
 
-In some systems , as the last step, open octave and type >> setenv PYTHON python3
+In some systems, as the last step, open Octave and type in >> setenv PYTHON python3
 
 Enjoy!
