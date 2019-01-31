@@ -4,3 +4,4 @@ There is a worthy Guidance in ./SPSMATDocumentation.pdf file. To learn how to wo
 
 
 This package is written in GNU Octave (Open source Matlab) (see https://www.gnu.org/software/octave/).
+All Linux, Mac, and Windows users can download and use Octave. [I'm an inline-style link](https://www.google.com)
